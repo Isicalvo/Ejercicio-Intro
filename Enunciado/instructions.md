@@ -31,11 +31,17 @@ FUEGO 56
 PLANTA 9 
 #### Output
 RAAAWR, soy PEDRO 
+
 FUEGO 13 
+
 PLANTA 8 
+
 Quedan 79 puntos de magia 
+
 AGUA 21 
+
 AGUA 57 
+
 Quedan 1 puntos de magia 
 FUEGO 1 
 Nadie... lo lamento X o X 
