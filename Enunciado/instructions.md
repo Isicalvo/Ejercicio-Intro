@@ -20,33 +20,20 @@ derrota:el monstruo retornará una frase "Nadie... lo lamento X o X"
 
 ## Ejemplo
 #### Input
-PLANTA 12 
-
-AGUA 7 
-
-FUEGO 20 
-
-FUEGO 56 
-
-PLANTA 9 
+PLANTA 12 \n
+AGUA 7 \n
+FUEGO 20 \n
+FUEGO 56 \n
+PLANTA 9 \n
 #### Output
-RAAAWR, soy PEDRO
-
-FUEGO 13
-
-PLANTA 8
-
-Quedan 79 puntos de magia
-
-AGUA 21
-
-AGUA 57
-
-Quedan 1 puntos de magia
-
-FUEGO 1
-Nadie... lo lamento X o X
-
-
+RAAAWR, soy PEDRO \n
+FUEGO 13 \n
+PLANTA 8 \n
+Quedan 79 puntos de magia \n
+AGUA 21 \n
+AGUA 57 \n
+Quedan 1 puntos de magia \n
+FUEGO 1 \n
+Nadie... lo lamento X o X \n
 Aquí Odiseo le puso PEDRO al monstruo y habló con él. Cada 2 ataques revisó el nivel de magia restante. Cuando le quedaba 1 punto de magia recibió un ataque de PLANTA 9, al cual solo pudo responder con FUEGO 1 justo antes de rendirse. 
 Solo debes preocuparte de crear la clase con las cualidades y habilidades descritas, nosotros nos encargamos de la impresión.
