@@ -20,9 +20,12 @@ derrota:el monstruo retornará una frase "Nadie... lo lamento X o X"
 
 ## Ejemplo
 #### Input
-PLANTA 12
+PLANTA 12 
+
 AGUA 7
+
 FUEGO 20 
+
 FUEGO 56 
 
 PLANTA 9 
