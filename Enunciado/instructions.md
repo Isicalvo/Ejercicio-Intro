@@ -43,7 +43,9 @@ AGUA 21
 AGUA 57 
 
 Quedan 1 puntos de magia 
+
 FUEGO 1 
+
 Nadie... lo lamento X o X 
 ### Explicación
 Aquí Odiseo le puso PEDRO al monstruo y habló con él. Cada 2 ataques revisó el nivel de magia restante. Cuando le quedaba 1 punto de magia recibió un ataque de PLANTA 9, al cual solo pudo responder con FUEGO 1 justo antes de rendirse. 
